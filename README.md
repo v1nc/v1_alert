@@ -1,2 +1,6 @@
 # v1_alert
-Android app that displays alerts for API calls.
+Display alerts for privacy related API calls.
+
+Uses xposed.
+
+Development stage: post-poc

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">v1_Alert</string>
+    <string name="title_activity_main">v1_Alert</string>
+    <string name="switch1">Camera</string>
+    <string name="switch2">Microphone</string>
+    <string name="switch3">Clipboard</string>
+    <string name="switch_not">Notification</string>
+    <string name="switch_toast">Toast</string>
+    <string name="alert_on">Alerts enabled</string>
+    <string name="alert_off">Alerts disabled</string>
+    <string name="action_settings">Settings</string>
+    <string name="description">Display alerts for privacy related API calls.</string>
+    <string name="reboot">Changes take effect after a (soft) reboot</string>
+</resources>
